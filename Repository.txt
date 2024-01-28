@@ -1,0 +1,14 @@
+Open your favourite browser
+
+copy below link
+https://github.com/itxmsalman/PythonPasswordGenerator.git
+
+past in search bar and press enter
+
+click on [<> code] button
+
+Clone using the web URL. or download a .zip file 
+
+
+Thank You!!!!! 
+
